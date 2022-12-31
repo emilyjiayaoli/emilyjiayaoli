@@ -10,7 +10,7 @@ Some things I have worked on/am working on:
 - 🔬 ARQuest research internship project mentor
 - 📱 [eZeTrack](https://www.linkedin.com/company/ezetrack/?viewAsMember=true) Software Engineer
 
-want to get better at:
+I want to get better at:
 - train neural nets and understand inner workings of model transformers
 - web dev (react and flask) especially backend and databases
 - microcontrollers
