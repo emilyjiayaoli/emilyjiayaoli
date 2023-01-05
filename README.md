@@ -13,7 +13,7 @@ Some things I have worked on/am working on:
 - 📱 [eZeTrack](https://www.linkedin.com/company/ezetrack/?viewAsMember=true) Software Engineer
 
 I want to get better at/learn:
-- MLoPs
+- MLOps
 - web dev (react and flask) especially backend and databases
 - microcontrollers
 - learn systems design
