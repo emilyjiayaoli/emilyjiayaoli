@@ -5,7 +5,7 @@
 [My Project Portfolio](https://emilyjiayaoli.me/projects.html)
 
 Some things I have worked on/am working on:
-- 🔬 [Modern Intelligence](https://www.modernintelligence.ai/) AI Research Scientist Intern - researching multimodal
+- 🔬 [Modern Intelligence](https://www.modernintelligence.ai/) AI Research Scientist Intern - multimodal representational learning
 - 🚶 [Evolution Devices](https://www.evolutiondevices.com/) Machine Learning Engineer, EvoVision
 - 🧡 [ARQuest SSERN](https://www.arquestssern.org/) Founder and Executive Director
 - 👩‍💻 Computer Vision Researcher @ Clemson University
