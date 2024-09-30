@@ -6,9 +6,7 @@
 
 Some things I have worked on/am working on:
 - 🌳 [Acadia AI](https://www.acadia-ai.com) - Founder - Data-centric ways to power AI
-- 🔬 [Modern Intelligence](https://www.modernintelligence.ai/) AI Research Scientist Intern - multimodal representational learning
+- 🤖 [CMU Robotics Institute] - Researcher - Text2Visual Generative Model Evaluation Metrics & Datasets
+- 🔬 [Modern Intelligence](https://www.modernintelligence.ai/) AI Researcher - multimodal representational learning
 - 🚶 [Evolution Devices](https://www.evolutiondevices.com/) Machine Learning Engineer, EvoVision
-- 🧡 [ARQuest SSERN](https://www.arquestssern.org/) Founder and Executive Director
-- 👩‍💻 Computer Vision Researcher @ Clemson University
-- 🔬 ARQuest research internship project mentor
-- 📱 [eZeTrack](https://www.linkedin.com/company/ezetrack/?viewAsMember=true) Software Engineer
+- 🧡 [ARQuest SSERN](https://www.arquestssern.org/) Founder & Executive Director
