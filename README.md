@@ -12,8 +12,3 @@ Some things I have worked on/am working on:
 - 👩‍💻 Computer Vision Researcher @ Clemson University
 - 🔬 ARQuest research internship project mentor
 - 📱 [eZeTrack](https://www.linkedin.com/company/ezetrack/?viewAsMember=true) Software Engineer
-
-I want to get better at/learn:
-- MLOps
-- web dev (react and flask) especially backend and databases
-- microcontrollers
