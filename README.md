@@ -10,4 +10,4 @@ Some things I have worked on:
 - 🚶 [Evolution Devices](https://www.evolutiondevices.com/) Machine Learning Engineer, EvoVision
 - 🧡 [ARQuest SSERN](https://www.arquestssern.org/) Founder & Executive Director
 
-[Project Portfolio](https://emilyjiayaoli.me/projects.html)
+[Old Projects](https://emilyjiayaoli.me/projects.html)
