@@ -1,6 +1,6 @@
 👋 hii im emily!
 
-- 👀 I’m interested in deep neural nets, computer vision, representation/hierarchical learning, multimodal sensor fusion, LLMs, generative models, as well as unique neural net training paradigms.
+- 👀 I’m interested in multi-agent systems, conversational voice/multimodal agents, representation/hierarchical learning, multimodal sensor fusion.
 
 Some things I have worked on:
 - [HavenLearn AI](https://www.havenlearn.ai/)
